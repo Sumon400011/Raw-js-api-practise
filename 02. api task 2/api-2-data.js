@@ -29,6 +29,6 @@ const data = [
       price: "434",
       description:
         "Vehicle Type: Crossover, Doors: 5, Seats: 7, Luggage: 5Suitcases / 5Bags, Transmission: Automatic",
-      
+      imageURL: "https://cdn.pixabay.com/photo/2015/10/01/17/17/car-967387_960_720.png"
     },
   ];
